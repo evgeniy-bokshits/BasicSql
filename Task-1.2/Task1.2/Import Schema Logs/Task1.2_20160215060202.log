@@ -1,0 +1,76 @@
+15.02.2016 21:02:02	This log contains information about the import schema operation into project 'Task1.2' on computer 'ADMIN-IJQ73B7ST' by user 'Администратор'.
+15.02.2016 21:02:02	Import of database schema has started.
+15.02.2016 21:02:10	Gathering database options
+15.02.2016 21:02:10	Gathering users
+15.02.2016 21:02:10	Gathering roles
+15.02.2016 21:02:10	Gathering application roles
+15.02.2016 21:02:10	Gathering role memberships
+15.02.2016 21:02:10	Gathering filegroups
+15.02.2016 21:02:10	Gathering files
+15.02.2016 21:02:10	Gathering full-text catalogs
+15.02.2016 21:02:10	Gathering assemblies
+15.02.2016 21:02:10	Gathering certificates
+15.02.2016 21:02:10	Gathering asymmetric keys
+15.02.2016 21:02:10	Gathering symmetric keys
+15.02.2016 21:02:14	Gathering encrypted symmetric keys
+15.02.2016 21:02:14	Gathering database encryption keys
+15.02.2016 21:02:14	Gathering schemas
+15.02.2016 21:02:14	Gathering XML schema collections
+15.02.2016 21:02:14	Gathering user-defined data types
+15.02.2016 21:02:14	Gathering user-defined types
+15.02.2016 21:02:14	Gathering table types
+15.02.2016 21:02:14	Gathering unique keys for table types
+15.02.2016 21:02:14	Gathering primary keys for table types
+15.02.2016 21:02:14	Gathering check constraints for table types
+15.02.2016 21:02:14	Gathering default constraints for table types
+15.02.2016 21:02:14	Gathering partition functions
+15.02.2016 21:02:14	Gathering partition schemes
+15.02.2016 21:02:14	Gathering functions
+15.02.2016 21:02:14	Gathering encrypted functions
+15.02.2016 21:02:14	Gathering aggregates
+15.02.2016 21:02:14	Gathering procedures
+15.02.2016 21:02:14	Gathering encrypted procedures
+15.02.2016 21:02:14	Gathering tables
+15.02.2016 21:02:14	Gathering primary keys
+15.02.2016 21:02:15	Gathering unique constraints
+15.02.2016 21:02:15	Gathering foreign keys
+15.02.2016 21:02:15	Gathering default constraints
+15.02.2016 21:02:15	Gathering check constraints
+15.02.2016 21:02:15	Gathering views
+15.02.2016 21:02:15	Gathering encrypted views
+15.02.2016 21:02:15	Gathering indexes
+15.02.2016 21:02:15	Gathering statistics
+15.02.2016 21:02:15	Gathering full-text index stoplists
+15.02.2016 21:02:15	Gathering search property lists
+15.02.2016 21:02:15	Gathering search properties
+15.02.2016 21:02:15	Gathering full-text indexes
+15.02.2016 21:02:15	Gathering column store indexes
+15.02.2016 21:02:15	Gathering spatial indexes
+15.02.2016 21:02:15	Gathering XML indexes
+15.02.2016 21:02:15	Gathering encrypted triggers
+15.02.2016 21:02:15	Gathering triggers
+15.02.2016 21:02:15	Gathering encrypted and clr ddl triggers
+15.02.2016 21:02:15	Gathering ddl triggers
+15.02.2016 21:02:15	Gathering synonyms
+15.02.2016 21:02:15	Gathering defaults
+15.02.2016 21:02:15	Gathering data constraint uddt bindings
+15.02.2016 21:02:15	Gathering rules
+15.02.2016 21:02:15	Gathering data constraint uddt bindings
+15.02.2016 21:02:15	Gathering message types
+15.02.2016 21:02:15	Gathering queues
+15.02.2016 21:02:15	Gathering contracts
+15.02.2016 21:02:15	Gathering services
+15.02.2016 21:02:15	Gathering routes
+15.02.2016 21:02:15	Gathering event notifications
+15.02.2016 21:02:15	Gathering remote service bindings
+15.02.2016 21:02:15	Gathering broker priorities
+15.02.2016 21:02:15	Gathering database audit specifications
+15.02.2016 21:02:15	Gathering signatures
+15.02.2016 21:02:15	Gathering data compression options
+15.02.2016 21:02:15	Gathering sequence types
+15.02.2016 21:02:15	Gathering extended properties
+15.02.2016 21:02:17	Scanning project for duplicate elements
+15.02.2016 21:02:17	Finished duplicate element processing
+15.02.2016 21:02:17	Finished importing database.
+15.02.2016 21:02:17	A summary of the import was saved to the following location: D:\Epam\_mentoring\SQL Basic\_homework\Task1\Task1.2\Task1.2\Import Schema Logs\Task1.2_20160215060202.log
+15.02.2016 21:02:18	Click Finish to continue...
